@@ -1,5 +1,5 @@
 # Build a Small Business Website
-
+Page can be viewed here: https://momentum-team-13.github.io/small-business-wesbite-thediegobryan/
 ## Directions
 
 Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
