@@ -1,0 +1,3 @@
+1 - make index.html in-stock.html info.html
+2 - homepage has lvl 1 heading followed by store picture
+3 - 
